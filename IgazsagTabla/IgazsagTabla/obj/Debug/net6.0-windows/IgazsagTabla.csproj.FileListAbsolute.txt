@@ -1,0 +1,17 @@
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.csproj.AssemblyReference.cache
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.csproj.GenerateResource.cache
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.AssemblyInfoInputs.cache
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.AssemblyInfo.cs
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.csproj.CoreCompileInputs.cache
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\bin\Debug\net6.0-windows\IgazsagTabla.exe
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\bin\Debug\net6.0-windows\IgazsagTabla.deps.json
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\bin\Debug\net6.0-windows\IgazsagTabla.runtimeconfig.json
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\bin\Debug\net6.0-windows\IgazsagTabla.dll
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\bin\Debug\net6.0-windows\IgazsagTabla.pdb
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.dll
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\refint\IgazsagTabla.dll
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.pdb
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.genruntimeconfig.cache
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\ref\IgazsagTabla.dll
+C:\Users\Domi\source\repos\IgazsagTabla\IgazsagTabla\obj\Debug\net6.0-windows\IgazsagTabla.MainWindow.resources
